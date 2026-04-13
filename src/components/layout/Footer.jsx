@@ -109,7 +109,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div style={{ borderTop: '1px solid #1e293b', marginTop: '2.5rem', paddingTop: '1.25rem', display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem', fontSize: '0.8rem' }}>
-          <span>© {new Date().getFullYear()} ShopNest. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} FaizMart. All rights reserved.</span>
           <div style={{ display: 'flex', gap: '1.5rem' }}>
             {['Privacy', 'Terms', 'Sitemap'].map(l => (
               <a key={l} href="#" style={{ color: '#94a3b8', textDecoration: 'none' }}>{l}</a>

@@ -28,12 +28,12 @@ export default function SignUpPage() {
     <div className="sn-auth-wrap">
       <div className="sn-auth-panel">
         <div style={{ fontSize: '1.8rem', fontWeight: 800, marginBottom: '2rem' }}>Shop<span style={{ color: '#0d9488' }}>Nest</span></div>
-        <h2>Join ShopNest today!</h2>
+        <h2>Join FaizMart today!</h2>
         <p>Create an account to enjoy exclusive member deals, track orders, and save your favourites.</p>
       </div>
       <div className="sn-auth-form-wrap">
         <div className="sn-auth-form" style={{ maxWidth: 460 }}>
-          <div className="sn-auth-logo">ShopNest</div>
+          <div className="sn-auth-logo">FaizMart</div>
           <h1 className="sn-auth-title">Create Account</h1>
           <p className="sn-auth-sub">Fill in the details to get started</p>
           <form onSubmit={handleSubmit(onSubmit)}>

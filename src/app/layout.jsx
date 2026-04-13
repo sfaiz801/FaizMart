@@ -8,7 +8,7 @@ import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 
 export const metadata = {
-  title: { default: 'ShopNest — Modern Online Store', template: '%s | ShopNest' },
+  title: { default: 'FaizMart — Modern Online Store', template: '%s | FaizMart' },
   description: 'Shop electronics, fashion, home décor and more at unbeatable prices.',
 };
 

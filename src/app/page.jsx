@@ -9,7 +9,7 @@ import NewsletterBanner from '@/components/home/NewsletterBanner';
 import { getProducts, getCategories } from '@/utils/api';
 
 export const metadata = {
-  title: 'ShopNest — Modern Online Store',
+  title: 'FaizMart — Modern Online Store',
   description: 'Shop electronics, fashion, home decor and more at unbeatable prices.',
 };
 

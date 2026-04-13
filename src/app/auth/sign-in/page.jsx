@@ -44,7 +44,7 @@ export default function SignInPage() {
       </div>
       <div className="sn-auth-form-wrap">
         <div className="sn-auth-form">
-          <div className="sn-auth-logo">ShopNest</div>
+          <div className="sn-auth-logo">FaizMart</div>
           <h1 className="sn-auth-title">Sign In</h1>
           <p className="sn-auth-sub">No account? <Link href="/auth/sign-up" style={{ color: 'var(--clr-primary)', fontWeight: 600 }}>Create one free</Link></p>
           <form onSubmit={handleSubmit(onSubmit)}>

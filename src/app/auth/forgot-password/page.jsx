@@ -26,7 +26,7 @@ export default function ForgotPasswordPage() {
       </div>
       <div className="sn-auth-form-wrap">
         <div className="sn-auth-form">
-          <div className="sn-auth-logo">ShopNest</div>
+          <div className="sn-auth-logo">FaizMart</div>
           {done ? (
             <div style={{ textAlign: 'center' }}>
               <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>📧</div>
