@@ -68,7 +68,7 @@ export default function Navbar() {
         <nav className={styles.inner}>
           {/* Brand */}
           <Link href="/" className={styles.brand}>
-            Shop<span>Nest</span>
+            Faiz<span>Mart</span>
           </Link>
 
           {/* Nav links - desktop */}

@@ -32,7 +32,7 @@ export default function Footer() {
           {/* Brand + about */}
           <div className="col-lg-4">
             <div style={{ fontSize: '1.6rem', fontWeight: 800, color: '#fff', marginBottom: '0.75rem' }}>
-              Shop<span style={{ color: '#0d9488' }}>Nest</span>
+              Faiz<span style={{ color: '#0d9488' }}>Mart</span>
             </div>
             <p style={{ fontSize: '0.88rem', lineHeight: 1.8, maxWidth: 300 }}>
               Your trusted destination for quality products across electronics, fashion, home & more.
